@@ -1,0 +1,6 @@
+E:\aiub\8th sem\C#\visual studio\mid\AccountClass\AccountClass\FinancialAccount\bin\Debug\FinancialAccount.exe.config
+E:\aiub\8th sem\C#\visual studio\mid\AccountClass\AccountClass\FinancialAccount\bin\Debug\FinancialAccount.exe
+E:\aiub\8th sem\C#\visual studio\mid\AccountClass\AccountClass\FinancialAccount\bin\Debug\FinancialAccount.pdb
+E:\aiub\8th sem\C#\visual studio\mid\AccountClass\AccountClass\FinancialAccount\obj\Debug\FinancialAccount.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\mid\AccountClass\AccountClass\FinancialAccount\obj\Debug\FinancialAccount.exe
+E:\aiub\8th sem\C#\visual studio\mid\AccountClass\AccountClass\FinancialAccount\obj\Debug\FinancialAccount.pdb
